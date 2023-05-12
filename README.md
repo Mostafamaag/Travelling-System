@@ -18,11 +18,11 @@ Travelling system like Expedia.com to apply OOP concepts
       - 0 or more flights, hotels, cars, etc. E.g 4 flights, 2 hotels and 2 cars.
 
 -  ### An itinerary item
-   - #### E.g a filght has: 
+   - E.g a filght has: 
           Its own cost
           Its info: E.g. A flight has request from user, and his selected flight details
-   - #### E.g. Hotel cost
-   - #### Itinerary cost is the sum of all internal items cost.
+   - E.g Hotel cost
+   - Itinerary cost is the sum of all internal items cost.
  
  - ### Local APIs is used to call for flights and hotels 
  
